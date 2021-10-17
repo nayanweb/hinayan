@@ -1,0 +1,13 @@
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Documents/EXAM_DIRECTORY/EXAM_DIRECTORY$ ls
+EXAM_DIRECTORY.Rproj
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Documents/EXAM_DIRECTORY/EXAM_DIRECTORY$ touch hello{a..z}.pdf
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Documents/EXAM_DIRECTORY/EXAM_DIRECTORY$ ls
+EXAM_DIRECTORY.Rproj  helloc.pdf  hellof.pdf  helloi.pdf  hellol.pdf  helloo.pdf  hellor.pdf  hellou.pdf  hellox.pdf
+helloa.pdf            hellod.pdf  hellog.pdf  helloj.pdf  hellom.pdf  hellop.pdf  hellos.pdf  hellov.pdf  helloy.pdf
+hellob.pdf            helloe.pdf  helloh.pdf  hellok.pdf  hellon.pdf  helloq.pdf  hellot.pdf  hellow.pdf  helloz.pdf
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Documents/EXAM_DIRECTORY/EXAM_DIRECTORY$ rename 's/hello/Nayan(hello)/' *
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Documents/EXAM_DIRECTORY/EXAM_DIRECTORY$ ls
+ EXAM_DIRECTORY.Rproj  'Nayan(hello)d.pdf'  'Nayan(hello)h.pdf'  'Nayan(hello)l.pdf'  'Nayan(hello)p.pdf'  'Nayan(hello)t.pdf'  'Nayan(hello)x.pdf'
+'Nayan(hello)a.pdf'    'Nayan(hello)e.pdf'  'Nayan(hello)i.pdf'  'Nayan(hello)m.pdf'  'Nayan(hello)q.pdf'  'Nayan(hello)u.pdf'  'Nayan(hello)y.pdf'
+'Nayan(hello)b.pdf'    'Nayan(hello)f.pdf'  'Nayan(hello)j.pdf'  'Nayan(hello)n.pdf'  'Nayan(hello)r.pdf'  'Nayan(hello)v.pdf'  'Nayan(hello)z.pdf'
+'Nayan(hello)c.pdf'    'Nayan(hello)g.pdf'  'Nayan(hello)k.pdf'  'Nayan(hello)o.pdf'  'Nayan(hello)s.pdf'  'Nayan(hello)w.pdf'
